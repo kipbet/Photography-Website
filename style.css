@@ -7,21 +7,21 @@
 #content {
     margin: 1%;
     font-family: serif;
-    position: absolute;
-    overflow: auto;
     display: block;
-    padding: 0px;
 
 }
 #personal{
 
 }
 #other{
+    padding: 5%;
 
 }
 #footer{
     font-family: cursive;
     font-style: italic;
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
+    width: 100%;
+
 }
