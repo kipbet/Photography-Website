@@ -13,9 +13,9 @@
 }
 img{
     float: inline;
-    margin-left: 5px;
-    padding-left: 5px;
-    border-left: 5px;
+    margin-left: 0px;
+    padding: 0px;
+    border: 0px;
 }
 #photos li{
     display: inline-block;
@@ -34,6 +34,7 @@ a:visited{
 }
 a:hover{
     background-color: black;
+    color: cornsilk;
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
