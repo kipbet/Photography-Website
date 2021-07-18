@@ -9,6 +9,19 @@
     width: 100%;
     border-top: salmon;
     max-height: 2%;
+    display: flex;
+}
+img{
+    float: inline;
+    margin-left: 5px;
+    padding-left: 5px;
+    border-left: 5px;
+}
+#photos li{
+    display: inline-block;
+    color: black;
+    background-color: white;
+    position: relative;
 }
 a:link{
     color: red;
