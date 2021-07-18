@@ -6,7 +6,7 @@
     font-family: cursive;
 }
 #photos{
-    width: 25px;
+    width: 100%;
     border-top: salmon;
     max-height: 2%;
 }
