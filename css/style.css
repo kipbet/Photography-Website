@@ -4,6 +4,7 @@
     color: white;
     width: 100%;
     font-family: cursive;
+    text-align: center;
 }
 #photos{
     width: 100%;
@@ -37,4 +38,10 @@ a:hover{
     color: cornsilk;
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#form{
+    width: 100%;
+    min-height: 95%;
+    text-align: center;
+    background-color: mediumturquoise;
 }
