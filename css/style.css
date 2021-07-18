@@ -45,3 +45,11 @@ a:hover{
     text-align: center;
     background-color: mediumturquoise;
 }
+#other{
+    border-style: double;
+    background-color: mintcream;
+}
+#photos{
+    border-style: groove;
+    overflow: auto;
+}
