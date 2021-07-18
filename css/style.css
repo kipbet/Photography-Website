@@ -10,3 +10,17 @@
     border-top: salmon;
     max-height: 2%;
 }
+a:link{
+    color: red;
+    font-family: sans-serif;
+}
+a:visited{
+    font-weight: lighter;
+    background-color: rgb(203, 206, 203);
+    color: rgb(223, 167, 12);
+}
+a:hover{
+    background-color: black;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
