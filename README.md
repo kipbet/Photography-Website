@@ -20,4 +20,4 @@ Read more - https://github.com/kipbet/Photography-Website/blob/main/LICENSE
 
 ## Design
 Check the design here ::
-!design(https:/Photography-Website/blob/main/images/design.jpg?raw=true)
+!design(./images/design.jpg)
