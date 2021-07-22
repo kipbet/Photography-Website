@@ -1,5 +1,7 @@
 # Photography-Website
-#### Description
+##Author
+Kibet ronald
+## Description
 This is a photograhy website
 ## Installation Requirements
 * git installed
@@ -13,6 +15,8 @@ To view the site on your machine, use:
 1. html
 2. css
 3. git
+
+View[live](https://kipbet.github.io/Photography-Website/)
 
 ### License
 This project is licensed under GNU :: GNU General Public License v3.0
