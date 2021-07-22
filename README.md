@@ -24,4 +24,4 @@ Read more - https://github.com/kipbet/Photography-Website/blob/main/LICENSE
 
 ## Design
 Check the design here ::
-![](./images/design.jpg)
+![](./images/design2.jpg)
