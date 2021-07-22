@@ -4,8 +4,8 @@ Kibet ronald
 ## Description
 This is a photograhy website
 ## Installation Requirements
-* git installed
-use this command to install git:
+* git installed,
+* use this command to install git:
  $ sudo apt install git-all
 ### Setup
 To view the site on your machine, use:
