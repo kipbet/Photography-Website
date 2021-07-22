@@ -4,6 +4,8 @@
     width: 100%;
     text-align: center;
     margin-bottom: 0;
+    position: static;
+    clear: both;
 }
 #photos{
     width: 5%;
@@ -24,21 +26,6 @@ img{
     background-color: white;
     position: relative;
 }
-a:link{
-    color: red;
-    font-family: sans-serif;
-}
-a:visited{
-    font-weight: lighter;
-    background-color: rgb(203, 206, 203);
-    color: rgb(223, 167, 12);
-}
-a:hover{
-    background-color: black;
-    color: cornsilk;
-    font-weight: 900;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 #other{
     border-style: double;
@@ -52,7 +39,7 @@ a:hover{
     background-color: green;
     margin-left: 0;
 }
-.pets{
+#pets{
     float: right;
     margin-right: 0;
 }
