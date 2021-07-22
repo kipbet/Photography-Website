@@ -1,22 +1,22 @@
 #footer{
-    position: absolute;
     background-color: black;
     color: white;
     width: 100%;
-    font-family: cursive;
     text-align: center;
+    margin-bottom: 0;
 }
 #photos{
-    width: 100%;
+    width: 5%;
     border-top: salmon;
     max-height: 2%;
     display: flex;
 }
 img{
-    float: inline;
-    margin-left: 0px;
-    padding: 0px;
-    border: 0px;
+    display: inline;
+    justify-content: space-evenly;
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
 }
 #photos li{
     display: inline-block;
@@ -39,22 +39,25 @@ a:hover{
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#form{
-    width: 100%;
-    text-align: center;
-    background-color: mediumturquoise;
-    margin: 0;
-    padding: 0;
-}
+
 #other{
     border-style: double;
-    background-color: mintcream;
+    background-color: #e6e6d4;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
 }
-
-textarea
-{
-  border:1px solid #999999;
-  width:100%;
-  margin:5px 0;
-  padding:3px;
+#nature{
+    float: left;
+    background-color: green;
+    margin-left: 0;
+}
+.pets{
+    float: right;
+    margin-right: 0;
+}
+html,body{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf-970-80.jpg.webp");
+    width: 100%;
+    overflow: scroll;
 }
