@@ -1,6 +1,6 @@
 # Photography-Website
 ##Author
-*Kibet ronald
+* Kibet ronald
 ## Description
 This is a photograhy website
 ## Installation Requirements
@@ -19,7 +19,7 @@ To view the site on your machine, use:
 View[live](https://kipbet.github.io/Photography-Website/)
 
 ### License
-This project is licensed under GNU :: GNU General Public License v3.0
+This project is licensed under MIT License.
 Read more - https://github.com/kipbet/Photography-Website/blob/main/LICENSE
 
 ## Design
