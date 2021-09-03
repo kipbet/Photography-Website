@@ -28,7 +28,6 @@ img{
 }
 
 #other{
-    border-style: double;
     background-color: #e6e6d4;
     display: flex;
     justify-content: space-evenly;
@@ -47,4 +46,6 @@ html,body{
     background-image: url("https://cdn.mos.cms.futurecdn.net/ntFmJUZ8tw3ULD3tkBaAtf-970-80.jpg.webp");
     width: 100%;
     overflow: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
